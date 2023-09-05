@@ -1,4 +1,4 @@
-﻿namespace TgCinema.Dal.Models
+﻿namespace CinameToGether.Dal.Models
 {
     public class User : DbModel
     {

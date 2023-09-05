@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace TgCinema.Migrations
+namespace CinameToGether.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration

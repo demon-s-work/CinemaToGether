@@ -1,6 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
-using TgCinema.Dal.Models;
-namespace TgCinema.Dal.Context
+﻿using CinameToGether.Dal.Models;
+using Microsoft.EntityFrameworkCore;
+namespace CinameToGether.Dal.Context
 {
     public class ApplicationDbContext : DbContext
     {

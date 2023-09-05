@@ -1,4 +1,4 @@
-﻿namespace TgCinema.Dal.Repositories
+﻿namespace CinameToGether.Dal.Repositories
 {
     public class UserRepository
     {

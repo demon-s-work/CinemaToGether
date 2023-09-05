@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TgCinema", "TgCinema\TgCinema.csproj", "{533D08CC-BD9B-4990-B53C-A0CF4110A12B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinameToGether", "CinameToGether\CinameToGether.csproj", "{533D08CC-BD9B-4990-B53C-A0CF4110A12B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

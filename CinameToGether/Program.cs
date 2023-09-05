@@ -1,7 +1,7 @@
 ﻿using System.Text.Json;
 using Telegram.Bot;
-using TgCinema.Dal.Context;
-using TgCinema.Dal.Models;
+using CinameToGether.Dal.Context;
+using CinameToGether.Dal.Models;
 
 var authToken = Environment.GetEnvironmentVariable("ACCESS_TOKEN");
 if (String.IsNullOrEmpty(authToken))
