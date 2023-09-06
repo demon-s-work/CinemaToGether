@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace CinameToGether.Dal.Models
+namespace CinemaToGether.Dal.Models
 {
     public class DbModel
     {

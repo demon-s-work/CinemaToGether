@@ -1,4 +1,4 @@
-﻿namespace CinameToGether.Dal.Models
+﻿namespace CinemaToGether.Dal.Models
 {
     public class User : DbModel
     {

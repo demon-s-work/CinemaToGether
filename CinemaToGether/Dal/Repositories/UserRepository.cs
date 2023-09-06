@@ -1,4 +1,4 @@
-﻿namespace CinameToGether.Dal.Repositories
+﻿namespace CinemaToGether.Dal.Repositories
 {
     public class UserRepository
     {

@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace CinameToGether.Migrations
+namespace CinemaToGether.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration

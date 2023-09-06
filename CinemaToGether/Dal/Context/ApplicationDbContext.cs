@@ -1,6 +1,6 @@
-﻿using CinameToGether.Dal.Models;
+﻿using CinemaToGether.Dal.Models;
 using Microsoft.EntityFrameworkCore;
-namespace CinameToGether.Dal.Context
+namespace CinemaToGether.Dal.Context
 {
     public class ApplicationDbContext : DbContext
     {

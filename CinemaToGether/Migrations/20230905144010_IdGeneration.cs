@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace CinameToGether.Migrations
+namespace CinemaToGether.Migrations
 {
     /// <inheritdoc />
-    public partial class UserChanges : Migration
+    public partial class IdGeneration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

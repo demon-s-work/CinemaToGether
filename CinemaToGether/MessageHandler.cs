@@ -1,7 +1,7 @@
 ﻿using Telegram.Bot;
 using Telegram.Bot.Types;
 
-namespace CinameToGether
+namespace CinemaToGether
 {
     public class MessageHandler
     {

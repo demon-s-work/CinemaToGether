@@ -1,8 +1,8 @@
 ﻿using System.Runtime.InteropServices;
-using CinameToGether.Dal.Context;
-using CinameToGether.Dal.Models;
+using CinemaToGether.Dal.Context;
+using CinemaToGether.Dal.Models;
 using Microsoft.EntityFrameworkCore;
-namespace CinameToGether.Dal.Repositories
+namespace CinemaToGether.Dal.Repositories
 {
     public class BaseRepository<TEntity> where TEntity : DbModel
     {
